@@ -13,7 +13,7 @@ def shipping_manifest
   # set a variable called `the_manifest`, equal to a hash
   # fill that hash with key/value pairs that describe the following information:
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings
-  the_manifest = { "key1" => "whale bone corsets", "key2"=>"oil paintings", "key3"=>"porcelain vases" }
+  the_manifest = { "key1" => "whale bone corsets", "key2" => "oil paintings", "key3" => "porcelain vases" }
 
                the_manifest[ "key1" ]
                the_manifest[ "key2" ]
