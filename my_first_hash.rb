@@ -17,6 +17,10 @@ def shipping_manifest
   the_manifest={
               "key"=>"whale bone corsets", "key1"=>"oil paintings", "key2"=>"porcelain
                vases"}
+
+               the_manifest["key"]
+               the_manifest["key1"]
+               the_manifest["key2"]
 end
 
 def retrieval
