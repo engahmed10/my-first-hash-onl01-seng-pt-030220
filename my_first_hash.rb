@@ -18,9 +18,9 @@ def shipping_manifest
                    "porcelain vases" => "3"
                  }
 
-               the_manifest[ "whale bone corsets" ]
-               the_manifest[ "oil paintings" ]
-               the_manifest[ "porcelain vases" ]
+               the_manifest["whale bone corsets"]
+               the_manifest["oil paintings"]
+               the_manifest["porcelain vases"]
 end
 
 def retrieval
