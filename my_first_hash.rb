@@ -15,8 +15,7 @@ def shipping_manifest
   # fill that hash with key/value pairs that describe the following information:
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings
   the_manifest = {
-              "key" => "whale bone corsets", "key1"=>"oil paintings", "key2"=>"porcelain
-               vases" }
+              "key" => "whale bone corsets", "key1"=>"oil paintings", "key2"=>"porcelainvases" }
 
                the_manifest["key"]
                the_manifest["key1"]
