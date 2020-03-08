@@ -16,9 +16,9 @@ def shipping_manifest
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings
   the_manifest = { "key" => "whale bone corsets", "key1"=>"oil paintings", "key2"=>"porcelain vases" }
 
-               the_manifest["key"]
-               the_manifest["key1"]
-               the_manifest["key2"]
+               the_manifest[ "key" ]
+               the_manifest[ "key1" ]
+               the_manifest[ "key2" ]
 end
 
 def retrieval
